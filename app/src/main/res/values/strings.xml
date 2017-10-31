@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2Base</string>
+
+    <string name="login">Login</string>
+    <string name="share">Share</string>
+    
+</resources>
