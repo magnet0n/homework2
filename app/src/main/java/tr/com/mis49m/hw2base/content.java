@@ -2,9 +2,7 @@ package tr.com.mis49m.hw2base;
 
 import java.io.Serializable;
 
-/**
- * Created by antonio on 11/1/2017.
- */
+
 
 public class content implements Serializable
 {
